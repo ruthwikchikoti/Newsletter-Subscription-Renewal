@@ -153,11 +153,9 @@ renewal-flow-frontend
 
 ## Screenshots
 
-### Home Page (Flow Simulation)
-![Home Page Simulation](<Insert-Path-to-Screenshot>)
-
-### Admin Page (Email Management)
-![Admin Page](<Insert-Path-to-Screenshot>)
+![image](https://github.com/user-attachments/assets/71acee9d-aab0-4682-840a-82d4b354f48f)
+![image](https://github.com/user-attachments/assets/4c6fa736-2e12-445e-baba-d543a7e1194c)
+![image](https://github.com/user-attachments/assets/f8f93321-9e52-492d-94d5-565f0106ee37)
 
 ---
 
